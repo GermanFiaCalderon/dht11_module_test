@@ -2,7 +2,7 @@ import time
 import board
 import adafruit_dht
 #Pin del sensor
-dhtDevice = adafruit_dht.DHT11(board.D21)
+dhtDevice = adafruit_dht.DHT22(board.D21)
 while True:
     #Intenta acceder al dato del sensor dht11
     try:

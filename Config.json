@@ -1,4 +1,4 @@
 {
-    "tiempo" : "60.0",
-    "send_data" : "2.5" 
+    "tiempo" : 5.0,
+    "send_data" : 2.5 
 }
